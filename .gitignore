@@ -1,0 +1,39 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- Terraform & Terragrunt ---
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+*.tfplan
+
+# --- Docker ---
+.docker/
+# Don't ignore Dockerfiles, but ignore local env files
+.env
+.env.local
+
+# --- AWS / Cloud ---
+.aws/
+credentials
+access_key
+secret_key
+
+# --- Linux / Development ---
+*.log
+bin/
+obj/
+dist/
+node_modules/
+
+# --- IDEs ---
+.vscode/
+.idea/
+.vscode/
+.idea/
