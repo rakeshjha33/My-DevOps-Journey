@@ -27,8 +27,9 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 04 | 14-Apr-2026 | Mastered Linux fundamentals|  Kernel vs. Shell architecture, file management (CRUD), navigation, and real-time system monitoring |
 | 05 | 15-Apr-2026 | Node Health Tracking |Automated node health and AWS resource tracking via Bash to drive proactive monitoring and cost-efficient DevOps workflows.|
 | 06 | 16-April-2026 | Git Version Control | Mastered Git version control and branching strategies to enable parallel development, streamlined code tracking, and collaborative deployment workflows. |
-| .. | ... | ... | ... |
-
+| 07 | 20-April-2026 | AWS Resource Tracker | Building a mini-project:AWS Resource Tracker |
+| 08 | 08-May-2026 | Ansible Basics | Today I learned the basic concepts of Ansible and understood how automation works in infrastructure managementand write my first yaml playbbok |
+ 
 ---
 
 ## 📂 Project Highlights
