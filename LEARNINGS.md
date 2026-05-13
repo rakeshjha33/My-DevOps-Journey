@@ -30,6 +30,7 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 07 | 20-April-2026 | AWS Resource Tracker | Building a mini-project:AWS Resource Tracker |
 | 08 | 08-May-2026 | Ansible Basics | Today I learned the basic concepts of Ansible and understood how automation works in infrastructure managementand write my first yaml playbbok |
 | 09 | 09-May-2026 | Terraform Concepts and Revison | Revised git,linux and ansible concepts along with learning basics terraform concepts for automating tasks and how it works. |
+| 10 | 13-MAy-2026 | Terraform | Wrote a terraform Script to Provision an AWS EC2 Instance  |
  
 ---
 
