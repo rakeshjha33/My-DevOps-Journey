@@ -62,7 +62,7 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 
 ## 📫 Connect with Me
 - **Twitter/X:** [https://x.com/rakeshjha2003] (Follow my #LearningInPublic journey!)
-- **LinkedIn:** [https://www.linkedin.com/in/rakesh-jha-299847227/]
+- **LinkedIn:** [http://www.linkedin.com/in/rakeshjha33]
 
 ---
 *“Consistency is the key to mastery.”*
