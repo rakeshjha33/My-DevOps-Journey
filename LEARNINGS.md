@@ -33,6 +33,12 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 10 | 13-MAy-2026 | Terraform | Wrote a terraform Script to Provision an AWS EC2 Instance  |
 | 11 | 19-MAy-2026 | Jenkins | Build My first Jenkins Pipeline  |
 | 12 | 21-MAy-2026 | Jenkins & ArgoCD | Build a Complete End-to-End Hybrid CI/CD Pipeline  |
+| 13 | 22-MAy-2026 | GitHUB Actions  | Deployed an application via GitHub Actions and configured self-hosted runners to master CI/CD infrastructure and workflow automation.|
+| 14 | 23-MAy-2026 | CI/CD Revision | Revised core CI/CD pipeline concepts, workflow optimization strategies, and self-hosted runner infrastructure management.|
+| 15 | 24-MAy-2026 | Project Management |Explored Jira and Confluence, mastering agile project tracking, sprint planning, and collaborative documentation for DevOps teams.  |
+| 16 | 25-MAy-2026 | Docker & Containerization | Explored virtualization, hypervisors, and container architecture, comparing deployments on virtual machines versus physical servers.  |
+
+ 
 ---
 
 ## 📂 Project Highlights
