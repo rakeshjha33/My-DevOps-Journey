@@ -38,7 +38,7 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 15 | 24-MAy-2026 | Project Management |Explored Jira and Confluence, mastering agile project tracking, sprint planning, and collaborative documentation for DevOps teams.  |
 | 16 | 25-MAy-2026 | Docker & Containerization | Explored virtualization, hypervisors, and container architecture, comparing deployments on virtual machines versus physical servers.  |
 | 17 | 26-MAy-2026 | Docker Hands-on | Explored Docker architecture and the container SDLC, built my first custom image, and mastered core Docker CLI commands.  |
-
+| 18 | 27-May-2026 | Django Containerization | Containerized a Django application in Docker and mastered the critical differences between the ENTRYPOINT and CMD instructions. |
  
 ---
 
