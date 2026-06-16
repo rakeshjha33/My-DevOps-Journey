@@ -42,6 +42,9 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 19 | 28-May-2026 | Multi-Stage Docker Builds | Mastered multi-stage builds and distroless images, achieving an 800% reduction in production container image size. |
 | 20 | 29-May-2026 | Docker Volumes & Mounts | Explored persistent storage in Docker, mastering the differences and use cases between volumes and bind mounts. |
 | 21 | 30-May-2026 | Docker Networking | Studied bridge, host, and overlay networks, and implemented custom bridge networks to enhance container isolation and security. |
+| 22 | 31-May-2026 | Docker Revision | Conducted a comprehensive review of Docker architecture, multi-stage builds, storage volumes, and custom network security configurations. |
+| 23 | 01-June-2026 | Docker Compose | Mastered Docker Compose concepts for orchestration, configuring and managing multi-container application deployments locally. |
+| 24 | 15-June-2026 | MERN Containerization | Containerized a full-stack three-tier MERN application and orchestrated the multi-container deployment using Docker Compose. |
  
 ---
 
