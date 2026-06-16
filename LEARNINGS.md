@@ -39,6 +39,9 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 16 | 25-MAy-2026 | Docker & Containerization | Explored virtualization, hypervisors, and container architecture, comparing deployments on virtual machines versus physical servers.  |
 | 17 | 26-MAy-2026 | Docker Hands-on | Explored Docker architecture and the container SDLC, built my first custom image, and mastered core Docker CLI commands.  |
 | 18 | 27-May-2026 | Django Containerization | Containerized a Django application in Docker and mastered the critical differences between the ENTRYPOINT and CMD instructions. |
+| 19 | 28-May-2026 | Multi-Stage Docker Builds | Mastered multi-stage builds and distroless images, achieving an 800% reduction in production container image size. |
+| 20 | 29-May-2026 | Docker Volumes & Mounts | Explored persistent storage in Docker, mastering the differences and use cases between volumes and bind mounts. |
+| 21 | 30-May-2026 | Docker Networking | Studied bridge, host, and overlay networks, and implemented custom bridge networks to enhance container isolation and security. |
  
 ---
 
