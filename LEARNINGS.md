@@ -45,7 +45,7 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 22 | 31-May-2026 | Docker Revision | Conducted a comprehensive review of Docker architecture, multi-stage builds, storage volumes, and custom network security configurations. |
 | 23 | 01-June-2026 | Docker Compose | Mastered Docker Compose concepts for orchestration, configuring and managing multi-container application deployments locally. |
 | 24 | 15-June-2026 | MERN Containerization | Containerized a full-stack three-tier MERN application and orchestrated the multi-container deployment using Docker Compose. |
- 
+| 25 | 17-June-2026 | Kubernetes Architecture | Demystified K8s architecture, analyzing control plane and data plane component interactions for cluster orchestration. |
 ---
 
 ## 📂 Project Highlights
