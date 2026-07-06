@@ -7,13 +7,16 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 ---
 
 ## 🛠️ Tech Stack & Skills
-- OS: Ubuntu Linux 🐧
-- Scripting: Bash, Python
-- Cloud: AWS (CLI & Management Console)
-- Containerization: Docker (Learning in progress)
-- Orchestration: Kubernetes (Planned)
+- OS: Ubuntu Linux 🐧 (Hands-on-experince)
+- Scripting: Bash (Hands-on-experince), Python (Learning in progress)
+- Cloud: AWS (CLI & Management Console) ,
+- AWS Services(EC2,IAM,S3,VPC) : (Learning in progress) 
+- Containerization: Docker (Completed) 
+- Orchestration: Kubernetes (Completed)
 - IaC:Terraform (Planned)
-- CI/CD: GitHub Actions, Jenkins (Planned)
+- CI/CD: GitHub Actions, Jenkins,ArgoCD (Completed)
+- Observability: Prometheus and Grafana. 
+- 
 
 ---
 
