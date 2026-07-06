@@ -61,6 +61,9 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 38 | 30-June-2026 | Kubernetes Monitoring with Prometheus & Grafana | Evaluated time-series data aggregation architecture by scraping targets across the API plane and utilizing custom data source links for visualizing long-term infrastructure health trends inside Grafana. |
 | 39 | 01-July-2026 | Linux Fundamentals & Containerized Workspaces | Evaluated operating system abstractions by tracking hardware-to-software mediation layers, detailing the internal structural ring topology of the Linux kernel, and establishing interactive Ubuntu training cells via localized Docker engines. |
 | 40 | 02-July-2026 | Linux Directory Hierarchy & Path Resolution | Evaluated the standard filesystem hierarchy standard (FHS) topology, tracing directory mapping abstractions across administrative boundaries, configuration roots, transient data mounts, and internal environment parsing registers. |
+| 41 | 03-July-2026 | User Accounts, Appends & Interactive Editing | Evaluated programmatic user provisioning paradigms and shadow hashing registers, detailing group governance parameters, safe pipeline redirections, and standard structural modal operations inside Vi blocks. |
+| 42 | 04-July-2026 | Linux Permissions Management & Ownership | Evaluated the standard Unix file permission matrix (User/Group/Others) across triple rwx ring masks, contrasting absolute octal notations with relative symbolic masks and analyzing folder-to-file fallback priorities. |
+
 
 ---
 
