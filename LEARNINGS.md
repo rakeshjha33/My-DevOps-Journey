@@ -46,6 +46,20 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 23 | 01-June-2026 | Docker Compose | Mastered Docker Compose concepts for orchestration, configuring and managing multi-container application deployments locally. |
 | 24 | 15-June-2026 | MERN Containerization | Containerized a full-stack three-tier MERN application and orchestrated the multi-container deployment using Docker Compose. |
 | 25 | 17-June-2026 | Kubernetes Architecture | Demystified K8s architecture, analyzing control plane and data plane component interactions for cluster orchestration. |
+| 26 | 18-June-2026 | Production K8s Lifecycle & KOPS | Explored enterprise lifecycle management using KOPS, distinguishing between local development wrappers and cloud-native production distributions. |
+| 27 | 19-June-2026 | Kubernetes Deployments & ReplicaSets | Analyzed the orchestration differences between containers, standalone pods, and high-level deployment abstractions, validating automated replica scaling and controller-driven auto-healing loops. |
+| 28 | 20-June-2026 | Kubernetes Deployments & ReplicaSets | Analyzed the orchestration differences between containers, standalone pods, and high-level deployment abstractions, validating automated replica scaling and controller-driven auto-healing loops. |
+| 29 | 21-June-2026 | Kubernetes Networking & Services | Evaluated the strategic necessity of Kubernetes Services (ClusterIP, NodePort, and LoadBalancer), analyzing labels-and-selectors abstraction for dynamic service discovery and internal load balancing. |
+| 30 | 22-June-2026 | K8s Interview Refinement & Core Q&A | Consolidated operational core competencies by addressing 10 production-oriented Kubernetes scenario questions covering control/data plane topology, namespace boundaries, and day-to-day triage workflows. |
+| 31 | 23-June-2026 | K8s | Revision of core concepts |
+| 32 | 24-June-2026 | K8s Services Deep Dive & Traffic Analysis | Implemented a live NodePort/LoadBalancer hands-on demo to trace endpoint routing, verifying dynamic service mapping behavior and load balancing behavior under active curl traffic loops via Kubeshark. |
+| 33 | 25-June-2026 | Kubernetes Ingress, Controllers & TLS | Deep dived into Kubernetes Ingress abstractions and path/host-based routing, comparing TLS architectures (SSL Passthrough, Offloading, Bridging) and detailing Ingress vs. OpenShift Routes. |
+| 34 | 26-June-2026 | Kubernetes Ingress Concepts & Topology | Investigated the core limitations of simple layer-4 Q-Proxy round-robin routing, outlining how Ingress controllers resolve corporate cost constraints and lack of layer-7 capabilities. |
+| 35 | 27-June-2026 | Kubernetes Role-Based Access Control (RBAC) | Evaluated identity mapping paradigms in cloud environments, contrasting cluster scope with namespace scope and establishing standard ServiceAccount, Role, and RoleBinding topologies. |
+| 36 | 28-June-2026 | Kubernetes Custom Resources & Operators | Investigated API extensibility patterns through Custom Resource Definitions (CRDs), demonstrating structural schema enforcement and watcher loops utilizing Client-Go and Helm-managed Istio extensions. |
+| 37 | 29-June-2026 | K8s ConfigMaps & Secrets Integration | Evaluated safe external configuration injection models using environment variables versus volume mounts, analyzing etcd rest protection and validating auto-refresh loops. |
+| 38 | 30-June-2026 | Kubernetes Monitoring with Prometheus & Grafana | Evaluated time-series data aggregation architecture by scraping targets across the API plane and utilizing custom data source links for visualizing long-term infrastructure health trends inside Grafana. |
+
 ---
 
 ## 📂 Project Highlights
