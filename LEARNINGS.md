@@ -76,8 +76,8 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 ## 📂 Project Highlights
 *Detailed descriptions of major projects will be linked here.*
 
-1. **Static Website Hosting on AWS** (Day 25 - Coming Soon)
-2. **Dockerized Microservices Pipeline** (Day 50 - Coming Soon)
+1. **Automated GitOps Engine & CI/CD Release Pipeline(Jenkins, ArgoCD, GitHub Actions,Docker,Kubernetes)**
+2. **Multi-Container Platform Isolation & Microservices Network (Docker, Docker Compose)**
 
 ---
 
