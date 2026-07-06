@@ -63,6 +63,8 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 40 | 02-July-2026 | Linux Directory Hierarchy & Path Resolution | Evaluated the standard filesystem hierarchy standard (FHS) topology, tracing directory mapping abstractions across administrative boundaries, configuration roots, transient data mounts, and internal environment parsing registers. |
 | 41 | 03-July-2026 | User Accounts, Appends & Interactive Editing | Evaluated programmatic user provisioning paradigms and shadow hashing registers, detailing group governance parameters, safe pipeline redirections, and standard structural modal operations inside Vi blocks. |
 | 42 | 04-July-2026 | Linux Permissions Management & Ownership | Evaluated the standard Unix file permission matrix (User/Group/Others) across triple rwx ring masks, contrasting absolute octal notations with relative symbolic masks and analyzing folder-to-file fallback priorities. |
+| 43 | 05-July-2026 | Linux Process & Disk Topology Management | Traced time-slice scheduling loops (ps, top, htop, renice), mapped signal processing channels (kill), and orchestrated automated filesystem format bounds and directory attachment paths via block mount points (lsblk, mkfs, mount). |
+
 
 
 ---
