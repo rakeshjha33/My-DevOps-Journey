@@ -64,6 +64,7 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 41 | 03-July-2026 | User Accounts, Appends & Interactive Editing | Evaluated programmatic user provisioning paradigms and shadow hashing registers, detailing group governance parameters, safe pipeline redirections, and standard structural modal operations inside Vi blocks. |
 | 42 | 04-July-2026 | Linux Permissions Management & Ownership | Evaluated the standard Unix file permission matrix (User/Group/Others) across triple rwx ring masks, contrasting absolute octal notations with relative symbolic masks and analyzing folder-to-file fallback priorities. |
 | 43 | 05-July-2026 | Linux Process & Disk Topology Management | Traced time-slice scheduling loops (ps, top, htop, renice), mapped signal processing channels (kill), and orchestrated automated filesystem format bounds and directory attachment paths via block mount points (lsblk, mkfs, mount). |
+| 44 | 06-July-2026 | Network Topologies, Addressing & OSI Framework | Evaluated standard Internet protocols and logical structures, analyzing 32-bit IPv4 octet spaces, subnet segmentation limits (/24, /27), and tracing data encapsulations across the 7-layer OSI stack (L7–L1 encapsulation/decapsulation). |
 
 
 
