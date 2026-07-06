@@ -59,6 +59,7 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 36 | 28-June-2026 | Kubernetes Custom Resources & Operators | Investigated API extensibility patterns through Custom Resource Definitions (CRDs), demonstrating structural schema enforcement and watcher loops utilizing Client-Go and Helm-managed Istio extensions. |
 | 37 | 29-June-2026 | K8s ConfigMaps & Secrets Integration | Evaluated safe external configuration injection models using environment variables versus volume mounts, analyzing etcd rest protection and validating auto-refresh loops. |
 | 38 | 30-June-2026 | Kubernetes Monitoring with Prometheus & Grafana | Evaluated time-series data aggregation architecture by scraping targets across the API plane and utilizing custom data source links for visualizing long-term infrastructure health trends inside Grafana. |
+| 39 | 01-July-2026 | Linux Fundamentals & Containerized Workspaces | Evaluated operating system abstractions by tracking hardware-to-software mediation layers, detailing the internal structural ring topology of the Linux kernel, and establishing interactive Ubuntu training cells via localized Docker engines. |
 
 ---
 
