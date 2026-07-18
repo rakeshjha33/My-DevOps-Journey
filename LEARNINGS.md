@@ -68,6 +68,9 @@ This repository serves as my "Proof of Work," documenting my daily progress, han
 | 42 | 04-July-2026 | Linux Permissions Management & Ownership | Evaluated the standard Unix file permission matrix (User/Group/Others) across triple rwx ring masks, contrasting absolute octal notations with relative symbolic masks and analyzing folder-to-file fallback priorities. |
 | 43 | 05-July-2026 | Linux Process & Disk Topology Management | Traced time-slice scheduling loops (ps, top, htop, renice), mapped signal processing channels (kill), and orchestrated automated filesystem format bounds and directory attachment paths via block mount points (lsblk, mkfs, mount). |
 | 44 | 06-July-2026 | Network Topologies, Addressing & OSI Framework | Evaluated standard Internet protocols and logical structures, analyzing 32-bit IPv4 octet spaces, subnet segmentation limits (/24, /27), and tracing data encapsulations across the 7-layer OSI stack (L7–L1 encapsulation/decapsulation). |
+| 45 | 07-July-2026 | Public Cloud Architectures & AWS IAM Governance | Evaluated public and private cloud abstraction paradigms by analyzing server virtualization layers. Traced Identity and Access Management (IAM) security topologies, detailing programmatic authentication workflows, organizational user group provisioning, and enforcing strict authorization boundaries via targeted JSON policy attachments. |
+| 46 | 08-July-2026 | EC2 Compute Topologies & Application Deployment | Evaluated elastic compute abstractions by provisioning virtualized Ubuntu server instances across localized availability zones. Traced remote authentication channels via asymmetric SSH key pairs and orchestrated a Jenkins CI/CD deployment by manipulating inbound Security Group firewall parameters to route external TCP traffic across port 8080. |
+
 
 
 
